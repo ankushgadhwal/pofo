@@ -1,0 +1,1109 @@
+@media (min-width:576px) {
+    .w-sm-1 {
+        width: 100%;
+    }
+
+    .play_circle {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .container {
+        max-width: 540px;
+    }
+
+    .banner h2 {
+        font-size: 38px;
+        line-height: 44px;
+    }
+
+    .banner-content p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .about h2 {
+        font-size: 28px;
+        line-height: 34px;
+    }
+
+    .about p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .about {
+        padding: 50px 0;
+    }
+
+    .our-feature .row{
+        width: 100%;
+        display: flex;
+    }
+
+    .our-feature .row .title{
+        width: 100%;
+    }
+
+    .our-feature .row .title h2 {
+        font-size: 20px;
+        line-height: 28px;
+        padding-bottom: 20px;
+        width: 100%;
+    }
+
+    .our-feature {
+        padding: 50px 0;
+    }
+
+    .our-service {
+        padding: 50px 0;
+    }
+
+    .our-service .our-service-title p:first-child {
+        padding: 0;
+        margin-bottom: 15px;
+        font-size: 12px;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    .our-service .our-service-title h3 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 25px;
+        text-align: center;
+    }
+
+    .our-service .our-service-title p:nth-child(3) {
+        font-size: 12px;
+        line-height: 20px;
+        color: #6f6f6f;
+        text-align: center;
+    }
+
+    .our-service .our-service-title .a-div {
+        text-align: center;
+    }
+
+    .our-service .our-service-title a {
+        padding: 5px 29px;
+    }
+
+    .our-team .our-team-title {
+        padding: 80px 0 0;
+    }
+
+    .our-service .our-service-title {
+        padding: 0 15px;
+        margin-bottom: 50px;
+    }
+
+    .play_circle {
+        width: 90px;
+        height: 90px;
+    }
+
+    .our-strength .our-strength-img a::before {
+        font-size: 28px;
+    }
+
+    .our-strength .our-strength-title {
+        padding: 7%;
+    }
+
+    .our-strength .our-strength-title h2 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .our-strength .our-strength-title p {
+        color: #6f6f6f;
+        font-size: 12px;
+        line-height: 20px;
+        font-weight: 400;
+    }
+
+    .our-strength .our-strength-title ul li {
+        font-size: 12px;
+        color: #6f6f6f;
+    }
+
+    .blog {
+        padding: 50px 0 20px;
+    }
+
+    .blog .blog-title h3 {
+        font-size: 20px;
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+
+    .blog .blog-title {
+        width: 65%;
+    }
+
+    .blog .blog-item {
+        padding: 0;
+        margin-bottom: 30px;
+    }
+
+    .blog .blog-item .blog-contain {
+        padding: 20px;
+        text-align: center;
+    }
+
+    .blog .blog-item .blog-contain p {
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+
+    .blog .blog-item .blog-contain span {
+        padding-top: 15px;
+        text-align: center;
+        width: 100%;
+        font-size: 11px;
+    }
+
+    .blog .blog-item .blog-contain span a {
+        font-size: 11px;
+    }
+    footer .row .start-project {
+        float: none;
+        display: flex;
+        justify-content: center;
+    }
+    footer{
+        padding-top: 30px;
+    }
+    
+    footer .footer-title {
+        text-align: center;
+    }
+
+    footer .footer-title h5{
+        font-size: 20px;
+        line-height: 28px;
+        padding: 0;
+        margin-bottom: 5px;
+    }
+
+    footer .footer-title p{
+        font-size: 16px;
+        line-height: 23px;
+        padding: 0;
+        margin-bottom: 30px;
+    }
+
+    footer .horizontal-line{
+        margin: 35px 0;
+    }
+    
+    
+    footer .copyright{
+        justify-content: center;
+        flex-direction: column;
+        padding-bottom: 30px;
+    }
+
+    footer .copyright .logo-image{
+        width: 100%;
+        justify-content: center;
+        display: flex;
+    }
+        
+    
+    footer .copyright .logo-image img{
+        margin-bottom: 30px;
+    }
+
+    footer .copyright .text-address{
+        margin-bottom: 30px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    footer .copyright .text-address p{
+        font-size: 16px;
+        color: #6f6f6f;
+        line-height: 23px; 
+    }
+   
+    footer .copyright .email{
+        margin-bottom: 30px;
+        width: 100%;
+    }
+
+    footer .copyright .email p{
+        font-size: 16px;
+        color: #6f6f6f;
+        line-height: 23px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+     
+    footer .copyright ul{
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+
+
+
+@media(min-width:768px) {
+    .w-md-2-70{
+        width: 70%;
+    }
+    .w-md-2-30{
+        width: 30%;
+    }
+    .w-md-2 {
+        width: 50%;
+    }
+
+    .w-md-1 {
+        width: 100%;
+    }
+
+    footer .row .start-project {
+        float: right;
+        display: inline;
+    }
+
+    footer .footer-title {
+        text-align: left;
+    }
+
+    .container {
+        max-width: 720px;
+    }
+
+    .banner h2 {
+        font-size: 70px;
+        line-height: 65px;
+    }
+
+    .banner-content p {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    .about h2 {
+        font-size: 36px;
+        line-height: 41px;
+    }
+
+    .about p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .about {
+        padding: 75px 120px;
+    }
+
+    .our-feature {
+        padding: 75px 75px;
+    }
+
+    .our-feature .row{
+        width: 100%;
+        display: flex;
+    }
+
+    .our-feature .row .title{
+        width: 50%;
+    }
+
+    .our-feature .row .title h2 {
+        font-size: 20px;
+        line-height: 28px;
+        padding-bottom: 20px;
+        width: 100%;
+    }
+
+    .our-service {
+        padding: 75px 9px;
+    }
+
+    .our-service .our-service-title p:first-child {
+        padding: 0;
+        margin-bottom: 15px;
+        font-size: 12px;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    .our-service .our-service-title h3 {
+        font-size: 30px;
+        line-height: 35px;
+        margin-bottom: 35px;
+        text-align: center;
+    }
+
+    .our-service .our-service-title p:nth-child(3) {
+        font-size: 14px;
+        line-height: 24px;
+        color: #6f6f6f;
+        text-align: center;
+    }
+
+    .our-service .our-service-title .a-div {
+        text-align: center;
+    }
+
+    .our-service .our-service-title a {
+        padding: 5px 29px;
+    }
+
+    .our-team .our-team-title {
+        padding: 120px 9px 0px;
+    }
+
+    .our-service .our-service-title {
+        padding: 0 15%;
+        margin-bottom: 80px;
+    }
+
+    .play_circle {
+        width: 110px;
+        height: 110px;
+    }
+
+    .our-strength .our-strength-img a::before {
+        font-size: 28px;
+    }
+
+    .our-strength .our-strength-title {
+        padding: 7%;
+    }
+
+    .our-strength .our-strength-title h2 {
+        font-size: 30px;
+        line-height: 35px;
+        margin-bottom: 25px;
+    }
+
+    .our-strength .our-strength-title p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .our-strength .our-strength-title ul li {
+        font-size: 14px;
+        color: #6f6f6f;
+    }
+
+    .blog .blog-title h3 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 40px;
+    }
+
+    .blog .blog-title {
+        width: 50%;
+    }
+
+    .blog .blog-item {
+        padding: 0 15px;
+        margin-bottom: 30px;
+    }
+
+    .blog .blog-item .blog-contain {
+        padding: 20px;
+        text-align: left
+    }
+
+    .blog .blog-item .blog-contain p {
+        font-size: 15px;
+        line-height: 24px;
+        padding-bottom: 10px;
+    }
+
+    .blog .blog-item .blog-contain span {
+        padding-top: 15px;
+        text-align: left;
+        width: 100%;
+        font-size: 11px;
+    }
+
+    .blog .blog-item .blog-contain span a {
+        font-size: 11px;
+    }
+    
+    footer{
+        padding-top: 65px;
+    }
+
+    footer .row .start-project {
+        align-items: center;
+    }
+
+    footer .footer-title h5{
+        font-size: 24px;
+        line-height: 30px;
+        padding: 0;
+        margin-bottom: 5px;
+    }
+
+    footer .footer-title p{
+        font-size: 14px;
+        line-height: 23px;
+        padding: 0;
+        margin-bottom: 0;
+        word-spacing: 0.1px;
+    }
+ 
+    footer .horizontal-line{
+        margin: 65px 0;
+    }
+    
+    
+    footer .copyright{
+        justify-content: space-between;
+        flex-direction: row;
+        padding-bottom: 30px;
+    }
+
+    footer .copyright .logo-image{
+        width: 100%;
+        justify-content: center;
+        display: flex;
+    }
+     
+    
+    footer .copyright .logo-image img{
+        margin-bottom: 50px;
+    }
+
+    footer .copyright .text-address{
+        margin-bottom: 30px;
+        text-align: left;
+        width: 200px;
+    }
+
+    footer .copyright .text-address p{
+        font-size: 14px;
+        color: #6f6f6f;
+        line-height: 23px; 
+    }
+   
+    footer .copyright .email{
+        margin-bottom: 30px;
+        width: 100%;
+        text-align: left;
+    }
+
+    footer .copyright .email p{
+        font-size: 14px;
+        color: #6f6f6f;
+        line-height: 23px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+     
+    footer .copyright ul{
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+
+
+
+
+@media (min-width:992px) {
+    .w-lg-2 {
+        width: 50%;
+    }
+
+    .about h2 {
+        font-size: 25px;
+        font-weight: 600;
+        line-height: 24px;
+        margin-bottom: 20px;
+    }
+
+    .w-lg-3 {
+        width: 33.33%;
+    }
+
+    .w-lg-4 {
+        width: 25%;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    .banner h2 {
+        font-size: 90px;
+        line-height: 90px;
+    }
+
+    .banner-content p {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .about h2 {
+        font-size: 42px;
+        line-height: 48px;
+    }
+
+    .about {
+        padding: 90px 70px;
+    }
+
+    .our-feature {
+        padding: 75px 114px;
+    }
+
+    .our-feature .row .title h2 {
+        font-size: 27px;
+        line-height: 32px;
+        padding-bottom: 70px;
+    }
+    
+    .our-service {
+        padding: 90px 11px;
+    }
+
+    .our-service .our-service-title p:first-child {
+        padding: 0;
+        margin-bottom: 15px;
+        font-size: 12px;
+        line-height: 20px;
+        text-align: left;
+    }
+
+    .our-service .our-service-title p:nth-child(3) {
+        font-size: 14px;
+        line-height: 24px;
+        color: #6f6f6f;
+        text-align: left;
+    }
+
+    .our-team .our-team-title {
+        padding: 160px 20px 0px;
+    }
+
+    .our-service .our-service-title .a-div {
+        text-align: left;
+    }
+
+    .our-service .our-service-title a {
+        padding: 9px 29px;
+    }
+
+    .our-service .our-service-title h3 {
+        font-size: 35px;
+        line-height: 41px;
+        margin-bottom: 35px;
+        text-align: left;
+    }
+
+    .our-service .our-service-title {
+        padding: 0 12% 0 15px;
+        margin-bottom: 0;
+    }
+
+    .our-strength .our-strength-title {
+        padding: 13%;
+    }
+
+    .our-strength .our-strength-title h2 {
+        font-size: 35px;
+        line-height: 41px;
+        margin-bottom: 45px;
+    }
+
+    .our-strength .our-strength-title p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .our-strength .our-strength-title ul li {
+        font-size: 14px;
+        color: #6f6f6f;
+    }
+
+    .our-strength .our-strength-img .img {
+        min-height: 600px;
+    }
+
+    .blog {
+        padding: 50px 0;
+    }
+
+    .blog .blog-title h3 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 70px;
+    }
+
+
+    footer .footer-title h5{
+        font-size: 27px;
+        line-height: 32px;
+        padding: 0;
+        margin-bottom: 5px;
+        font-weight: 400;
+    }
+
+    footer .footer-title p{
+        font-size: 16px;
+        line-height: 23px;
+        padding: 0;
+        margin-bottom: 0;
+        word-spacing: 0.1px;
+    }
+ 
+    footer .horizontal-line{
+        margin: 65px 0;
+    }
+
+    footer .copyright .logo-image{
+        width: auto;
+        justify-content: center;
+        display: flex;
+    } 
+}
+
+@media (min-width:1200px) {
+    .about h2 {
+        font-size: 50px;
+        font-weight: 600;
+        line-height: 48px;
+        margin-bottom: 20px;
+    }
+
+    .container {
+        max-width: 1140px;
+    }
+
+    .banner h2 {
+        font-size: 100px;
+        line-height: 95px;
+    }
+
+    .about h2 {
+        font-size: 48px;
+        line-height: 54px;
+    }
+
+    .about {
+        padding: 130px 100px;
+    }
+
+    .our-feature .row .title h2 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .our-feature {
+        padding: 130px 115px;
+    }
+
+    .our-service {
+        padding: 130px 15px;
+    }
+
+    .our-service .our-service-title h3 {
+        font-size: 40px;
+        line-height: 46px;
+        margin-bottom: 25px;
+        text-align: left;
+    }
+
+    .our-team .our-team-title {
+        padding: 160px 15px 0;
+    }
+
+    .our-strength .our-strength-title {
+        padding: 20%;
+    }
+
+    .our-strength .our-strength-title h2 {
+        font-size: 40px;
+        line-height: 46px;
+        margin-bottom: 45px;
+    }
+
+    .our-strength .our-strength-img .img {
+        min-height: 700px;
+    }
+
+    .blog {
+        padding: 130px 15px 100px;
+    }
+
+    .blog .blog-title h3 {
+        font-size: 32px;
+        line-height: 40px;
+        margin-bottom: 80px;
+    }
+
+    .blog .blog-title {
+        width: 42%;
+    }
+
+    .blog .blog-item .blog-contain p {
+        font-size: 14px;
+        line-height: 23px;
+        padding-bottom: 10px;
+    }
+}
+
+
+@media (min-width:1400px) {
+    .w-xxl-2 {
+        width: 50%;
+    }
+
+    .play_circle {
+        position: absolute;
+        top: 50%;
+        left: 100%;
+        transform: translate(-50%, -50%);
+    }
+
+    .container {
+        max-width: 1240px;
+    }
+
+    .about {
+        padding: 130px 136px;
+    }
+
+    .our-service {
+        padding: 130px 115px;
+    }
+
+    .our-team .our-team-title {
+        padding: 160px 115px 0;
+    }
+
+    .our-strength .our-strength-img .img {
+        min-height: 800px;
+    }
+}
+
+
+
+@media (max-width:991px) {
+    nav {
+        position: absolute;
+        top: 103%;
+        left: 0%;
+        background-color: #232323ec;
+        width: 100%;
+        display: none;
+    }
+
+    #checkbox1:checked~nav {
+        display: inline-block;
+    }
+
+    /* nav .navbar{
+        flex-direction: column;
+    } */
+    nav .navbar>li {
+        padding: 9px 15px;
+        margin: 0px 0px;
+        /* border-bottom: 1px solid #d4d4d46e; */
+    }
+
+    .header .social-icon .toggle-menu i {
+        display: block;
+    }
+
+    .our-strength .our-strength-img .img {
+        min-height: 500px;
+    }
+
+}
+
+@media (max-width:767) {
+    .our-strength .our-strength-img .img {
+        min-height: 400px;
+    }
+}
+
+@media(max-width:575px) {
+    .w-xs-1 {
+        width: 100%;
+    }
+
+    .banner h2{
+        font-size: 38px;
+        line-height: 44px;
+    }
+
+    .play_circle {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    footer .row .start-project {
+        float: none;
+        display: flex;
+        justify-content: center;
+    }
+    footer{
+        padding-top: 30px;
+    }
+    
+    footer .footer-title {
+        text-align: center;
+    }
+
+    footer .footer-title h5{
+        font-size: 20px;
+        line-height: 28px;
+        padding: 0;
+        margin-bottom: 5px;
+    }
+
+    footer .footer-title p{
+        font-size: 16px;
+        line-height: 23px;
+        padding: 0;
+        margin-bottom: 30px;
+    }
+
+    footer .horizontal-line{
+        margin: 35px 0;
+    }
+    
+    
+    footer .copyright{
+        justify-content: center;
+        flex-direction: column;
+        padding-bottom: 30px;
+    }
+
+    footer .copyright .logo-image{
+        width: 100%;
+        justify-content: center;
+        display: flex;
+    }
+    
+    footer .copyright .logo-image img{
+        margin-bottom: 30px;
+    }
+
+    footer .copyright .text-address{
+        margin-bottom: 30px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    footer .copyright .text-address p{
+        font-size: 16px;
+        color: #6f6f6f;
+        line-height: 23px; 
+    }
+   
+    footer .copyright .email{
+        margin-bottom: 30px;
+        width: 100%;
+    }
+
+    footer .copyright .email p{
+        font-size: 16px;
+        color: #6f6f6f;
+        line-height: 23px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+     
+    footer .copyright ul{
+        width: 100%;
+        justify-content: center;
+    }
+
+    .txt-center-xs {
+        text-align: center;
+    }
+
+    .container {
+        max-width: 100%;
+    }
+
+    .banner h2 {
+        font-size: 38px;
+        line-height: 44px;
+    }
+
+    .banner-content p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .about h2 {
+        font-size: 28px;
+        line-height: 34px;
+    }
+
+    .about p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .about {
+        padding: 50px 0;
+    }
+
+    .about .container-2 .row .w-50:first-child .about-inner {
+        margin-bottom: 35px;
+    }
+
+    .about .container-2 .row .w-50 .about-inner {
+        padding: 0 15px;
+    }
+
+    .our-feature {
+        padding: 50px 0;
+    }
+
+    .our-feature .row{
+        width: 100%;
+        display: flex;
+    }
+
+    .our-feature .row .title{
+        width: 100%;
+    }
+
+    .our-feature .row .title h2 {
+        font-size: 20px;
+        line-height: 28px;
+        padding-bottom: 20px;
+        width: 100%;
+    }
+
+    .our-service {
+        padding: 50px 0;
+    }
+
+    .our-service .our-service-title p:first-child {
+        padding: 0;
+        margin-bottom: 15px;
+        font-size: 12px;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    .our-service .our-service-title h3 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 25px;
+        text-align: center;
+    }
+
+    .our-service .our-service-title p:nth-child(3) {
+        font-size: 12px;
+        line-height: 20px;
+        color: #6f6f6f;
+        text-align: center;
+    }
+
+    .our-service .our-service-title .a-div {
+        text-align: center;
+    }
+
+    .our-service .our-service-title a {
+        padding: 5px 29px;
+    }
+
+    .our-service .our-service-title {
+        padding: 0;
+    }
+
+    .our-team .our-team-title {
+        padding: 80px 0 0;
+    }
+
+    .play_circle {
+        width: 90px;
+        height: 90px;
+    }
+
+    .our-strength .our-strength-img a::before {
+        font-size: 28px;
+    }
+
+    .our-strength .our-strength-title {
+        padding: 7%;
+    }
+
+    .our-strength .our-strength-title h2 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .our-strength .our-strength-title p {
+        color: #6f6f6f;
+        font-size: 12px;
+        line-height: 20px;
+        font-weight: 400;
+    }
+
+    .our-strength .our-strength-title ul li {
+        font-size: 12px;
+        color: #6f6f6f;
+    }
+
+    .blog {
+        padding: 50px 0 20px;
+    }
+
+    .blog .blog-title h3 {
+        font-size: 20px;
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+
+    .blog .blog-title {
+        width: 65%;
+    }
+
+    .blog .blog-item {
+        padding: 0;
+        margin-bottom: 30px;
+    }
+
+    .blog .blog-item .blog-contain {
+        padding: 20px;
+        text-align: center;
+    }
+
+    .blog .blog-item .blog-contain p {
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+
+    .blog .blog-item .blog-contain span {
+        padding-top: 15px;
+        text-align: center;
+        width: 100%;
+        font-size: 11px;
+    }
+
+    .blog .blog-item .blog-contain span a {
+        font-size: 11px;
+    }
+}
